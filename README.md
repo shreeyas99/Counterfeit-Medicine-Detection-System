@@ -33,15 +33,6 @@ Counterfeit medicines are a major threat to public health and pharmaceutical saf
 - Google colab
 - VS Code
 
-## Software Used
-
-- Python
-- OpenCV
-- YOLOv8
-- NumPy
-- Google colab
-- Git & GitHub
-
 ## Working
 
 1. The medicine package image is captured using the Raspberry Pi Camera Module.
